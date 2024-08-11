@@ -1,2 +1,2 @@
 # OOPs-in-cpp
-Example code with definition for different concepts of OOPs principles themed around Barbie Movies 🌸
+Build an understanding and foundation of OOP principles with the help of Barbie-themed code 🌸
